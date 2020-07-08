@@ -2,8 +2,14 @@
 
 This application is just for demo purpose which represents a proper implementation way of Splash screen implementation and there are two screens just for demo.
 
-<img src="demo/login.gif" width="400">
-<img src="demo/registration.png" width="400">
+<div class="row">
+  <div class="column">
+    <img src="demo/login.gif" width="300">
+  </div>
+  <div class="column">
+    <img src="demo/registration.png" width="300">
+  </div>
+</div>
 
 
 ### Libraries:
